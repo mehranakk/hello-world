@@ -1,2 +1,2 @@
-#this line prints hello world
+#This line prints hello world
 print 'hello world'
